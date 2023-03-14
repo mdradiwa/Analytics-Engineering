@@ -1,4 +1,4 @@
-# Data Fellowship 9 Session 4: Analytics-Engineering Assignment
+# Data Fellowship 9 Session 4: Analytics Engineering Assignment
 
 1. Ingest the data from [bigquery-public-data.chicago_taxi_trips.taxi_trips](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=chicago_taxi_trips&t=taxi_trips&ws=!1m5!1m4!4m3!1sbigquery-public-data!2schicago_taxi_trips!3staxi_trips) into BigQuery
 
