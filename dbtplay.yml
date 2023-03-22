@@ -1,0 +1,5 @@
+version: 2
+sources:
+- name: dbtplay #dataset
+  tables:
+    - name: taxitrip #tblsource

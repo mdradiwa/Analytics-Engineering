@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: topcab
+    columns:
+      - name: Company
+        tests:
+          - accepted_values:
+              values: [Top Cab Affiliation]
+      - name: Payment
+        tests:
+          - accepted_values:
+              values: [Cash, Credit Card]

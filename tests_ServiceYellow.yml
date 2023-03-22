@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: taxiaffi
+    columns:
+      - name: Company
+        tests:
+          - accepted_values:
+              values: [Taxi Affiliation Service Yellow]
+      - name: Payment
+        tests:
+          - accepted_values:
+              values: [Cash, Credit Card]

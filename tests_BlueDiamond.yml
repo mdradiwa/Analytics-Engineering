@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: bluediamond
+    columns:
+      - name: Company
+        tests:
+          - accepted_values:
+              values: [Blue Diamond]
+      - name: Payment
+        tests:
+          - accepted_values:
+              values: [Cash, Credit Card]
